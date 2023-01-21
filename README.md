@@ -1,2 +1,2 @@
-# curso-practico-JavaScript
+# curso-practico-JavaScript-desdeCero
 Aqui va mi curso desde cero con todo lo que tiene que ver con JavaScript
